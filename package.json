@@ -1,0 +1,16 @@
+{
+"name": "jdbpp",
+"theme": "jdb pp",
+"version": "1.3.5",
+"description": "jdb pp ทางเข้าเว็บแทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ รับโบนัสเครดิตฟรี",
+"keywords": [
+"jdb pp",
+"jdb pp เครดิตฟรี",
+"jdb pp ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/jdbpp",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
